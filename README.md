@@ -1,6 +1,15 @@
 # Tienda Remeras
 ## Descripción
-Tienda Remeras es una página web de ejemplo en la cual se pueden observar las remeras que hay en la base de datos, agregar más remeras, categorías y cuentas.
+Tienda Remeras es una página web de ejemplo en la cual se pueden observar las remeras que hay en la base de datos, agregar más remeras, categorías y cuentas. No es una tienda oficial, solo es un proyecto para incluirlo en mi portfolio.
+
+
+## Lenguajes utilizados
+* HTML
+* CSS
+* PHP
+* POO
+* MVC
+* SQL
 
 
 ## Agregar la base de datos (Obligatorio)
@@ -94,3 +103,6 @@ CONSTRAINT fk_linea_producto FOREIGN KEY(producto_id) REFERENCES productos(id)
 Esto se debe hacer desde la base de datos de MySQL
 En la tabla "usuarios" cambiar en el usuario el rol "user" por "admin"
 Siendo administrador se puede: gestionar categorías, gestionar productos y gestionar los pedidos de los usuarios
+
+## Imágenes de ejemplo
+En "uploads/images" se encuentran imágenes de remeras de ejemplo para usarlas al agregar productos como administrador
