@@ -1,6 +1,7 @@
 # Tienda Remeras
 ## Descripción
 Tienda Remeras es una página web de ejemplo en la cual se pueden observar las remeras que hay en la base de datos, agregar más remeras, categorías y cuentas. No es una tienda oficial, solo es un proyecto para incluirlo en mi portfolio.
+IMPORTANTE: Esta página web no cuenta con un responsive design para celulares, por lo cual es recomendable verla en PC.
 
 
 ## Lenguajes utilizados
